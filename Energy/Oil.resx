@@ -1,0 +1,70 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Neft (turkcha: neft; forscha: نفت - naft), qoramoy — suyuq yonuvchi qazilma boylik, organik birikmalarning, asosan, uglevodorodlarning murakkab aralashmasidan iborat modda. Yer yuzasidan, asosan, 1,2—2,0 km chuqurlikdagi yer osti gumbazlarining gʻovak yoki seryoriq togʻ jinslari (qum, qumtosh, ohaktoshlar)da joylashgan. Chiqarilayotgan neft, asosan, burgʻilangan quduqlardan olinadi.
+Neft chuqur er osti suv omborlarida joylashgan. Boshqa fotoalbom yoqilg'ilar singari, bu suyuqlik ham organik materiallarning millionlab yillar davomida parchalanishining yakuniy mahsulotidir. Neftning yakuniy miqdori cheklangan bo'lgani uchun va uni qazib olish va yoqish bilan to'ldirib bo'lmaydi, chunki uni qayta tiklanadigan manba deb hisoblash mumkin emas. Neft qazib olingandan so'ng, bir qator yoqilg'i mahsulotlariga -- benzin, kerosin, suyultirilgan neft gazi (masalan, propan), distillatlar (dizel va samolyot yoqilg'isi) va sanoat va elektr yoqilg'ilarini o'z ichiga olgan "qoldiqlar" ga qayta ishlanishi mumkin.
+
+Neftni elektr energiyasiga aylantirish uchun uchta texnologiya qo'llaniladi:
+
+An'anaviy bug '- Yog' elektr energiyasini ishlab chiqarish uchun bug' hosil qilish uchun suvni isitish uchun yoqiladi.
+Yonish turbinasi - neft bosim ostida yondirilgan issiq chiqindi gazlar hosil bo'ladi, ular elektr energiyasini ishlab chiqarish uchun turbinani aylantiradi.
+Kombinatsiyalangan tsikl texnologiyasi - neft birinchi navbatda elektr energiyasini ishlab chiqarish uchun isitiladigan chiqindi gazlar yordamida yonish turbinasida yondiriladi. Ushbu chiqindi gazlar qayta tiklangandan so'ng, ular suvni qozonda isitadi va ikkinchi turbinani haydash uchun bug' hosil qiladi.</value>
+  </data>
+</root>

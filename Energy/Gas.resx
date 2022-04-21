@@ -1,0 +1,66 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Tabiiy gaz energiyamizning 29 foizini ta'minlaydi va Qo'shma Shtatlardagi uylarning yarmini isitish uchun ishlatiladi. Bundan tashqari, bo'yoqlar, o'g'itlar, plastmassalar, dori-darmonlar va antifriz kabi turli xil keng tarqalgan mahsulotlarda xom ashyo hisoblanadi. Ko'pgina oshxona pechlari va tashqi panjara, shuningdek, uy isitish tizimlarini quvvatlaydigan propan tabiiy gazdan olinadi. Tabiiy gaz ham elektr energiyasining 33 foizini ishlab chiqarish uchun ishlatiladi.
+
+Hozirgi vaqtda to'rtdan bir qismi import qilinadigan neftdan farqli o'laroq, tabiiy gazning deyarli barchasi AQShdan keladi.
+Tabiiy gaz ko'pincha "toza yonish" deb ta'riflanadi, chunki u ko'mir yoki neftga qaraganda kamroq nomaqbul yon mahsulotlar ishlab chiqaradi. Barcha fotoalbom yoqilg'ilar singari, uning yonishi karbonat angidridni chiqaradi, lekin ishlab chiqarilgan elektr energiyasining bir kilovatt soatiga ko'mirning yarmiga teng. Bundan tashqari, energiya tejamkorroq. O'rtacha hisobda 2013 yilda ko'mir yoqadigan tipik elektr stantsiyasi issiqlik energiyasini elektr energiyasiga aylantirishda taxminan 33% samarali bo'lgan. Gaz bilan ishlaydigan zavodning samaradorligi taxminan 42% edi. Tabiiy gaz turbinasidagi chiqindi issiqlik bug 'turbinasini quvvatlantirish uchun ishlatiladigan tabiiy gaz kombinatsiyalangan elektr stantsiyalarida ishlab chiqarish 60% gacha samarali bo'lishi mumkin.</value>
+  </data>
+</root>

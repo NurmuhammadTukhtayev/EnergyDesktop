@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Biogas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Coal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Degree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Geotermal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hidro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Land.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ocean.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheSun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TypeOfEnergy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Unrecovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Water.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Wind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

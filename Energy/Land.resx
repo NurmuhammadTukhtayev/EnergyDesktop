@@ -1,0 +1,65 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Tuproq(qum) — litosfera yuza qavatlarining suv, havo va tirik organizmlar taʼsirida oʻzgarishidan shakllanadigan va genetik jihatdan oʻzaro bogʻliq gorizontlardan tashkil topgan tabiiy tuzilma; Yer poʻstining yuza va unumdor qatlami.
+
+Yer yuzasiga chiqib turgan togʻ jinslari yogʻinsochin, karbonat angidrid, kislorod, havo harorati, mexanik kuchlar, suv va unda erigan moddalar, havo, mikroorganizmlar va tuban oʻsimliklar (yoʻsin, lishayniklar) taʼsirida yemiriladi (nuraydi). Nuragan jinslar maydalanib, gʻovak qatlam hosil qiladi. Bu qatlam vaqt o'tishi bilan yangi xususiyat — nam sigʻimi va oʻsimliklar oʻzlashtira oladigan bir oz miqdordagi oziq moddalarga ega boʻladi. Vujudga kelgan yangi muhitdagi mikroorganizmlar oʻz hayot faoliyati tufayli oʻsimliklarning oʻsishi uchun sharoit yaratadi, oʻsimliklar tuproqdan oʻz hayoti uchun zarur oziq moddalarni oʻzlashtiradi va oʻzida toʻplaydi. Nobud boʻlgan oʻsimlikning bir qismi mikroorganizmlar taʼsirida parchalanib, mineral moddalarga, qolgan qismi esa murakkab biokimyoviy jarayonlar natijasida chirindi (gumus) ga aylanadi. Bu jarayonlarning barchasi uzluksiz davom etadigan nurash sharoitida sodir boʻlib, oʻsimlik ildizlari ajratgan nordon moddalar hamda organik qoldiqlar taʼsirida yanada tezlashadi. Natijada Yer poʻstlogʻining sirtida unumdor gʻovak qatlam — T. paydo boʻladi. Iqlim, tuproq ona jinsi, oʻsimlik hamda hayvonot olami, hudud relyefi kabi omillarning T. hosil boʻlish jarayoniga taʼsiri turlicha boʻlganligi tufayli har xil tabiiy zonalarda oʻziga xos T. tiplari vujudga keladi. Mas., tayga zonasida chimli podzol T., dashtlarda qora va kashtan T., choʻllarda esa sur tusli qoʻngʻir T va boshqalar.</value>
+  </data>
+</root>

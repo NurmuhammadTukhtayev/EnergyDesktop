@@ -1,0 +1,65 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Geotermal energiya - bu Yer qobig'idagi issiqlik energiyasi bo'lib, u sayyoraning paydo bo'lishidan va materiallarning radioaktiv parchalanishidan hozirda noaniq, lekin, ehtimol, taxminan teng nisbatda. Yerning ichki qismidagi yuqori harorat va bosim ba'zi jinslarning erishiga va qattiq mantiyaning plastik tutilishiga olib keladi. Bu mantiya qismlarining yuqoriga konvektsiyalanishiga olib keladi, chunki u atrofdagi jinslardan engilroqdir. Yadro-mantiya chegarasidagi harorat 4000 °C (7200 °F) dan oshishi mumkin.
+  Masalan, issiq buloqlardan olingan suvdan foydalangan holda geotermal isitish, paleolit ​​davridan beri cho'milish va qadimgi Rim davridan beri kosmik isitish uchun ishlatilgan. Yaqinda geotermal energiya, geotermal energiyadan elektr energiyasini ishlab chiqarish uchun ishlatiladigan atama ahamiyat kasb etdi. Hisob-kitoblarga ko'ra, erning geotermal resurslari nazariy jihatdan insoniyatning energiya ehtiyojlarini qondirish uchun etarli darajada emas, garchi hozirda juda kichik bir qismi, ko'pincha tektonik plitalar chegarasiga yaqin hududlarda foydali foydalanilmoqda.
+  Hukumat tomonidan olib borilgan tadqiqot va sanoat tajribasi natijasida geotermal energiya ishlab chiqarish xarajatlari 1980 va 1990 yillarga nisbatan 25% ga kamaydi.[4] So'nggi texnologik yutuqlar xarajatlarni sezilarli darajada kamaytirdi va shu bilan yashashga yaroqli resurslarning assortimenti va hajmini kengaytirdi. 2021-yilda AQSh Energetika vazirligining hisob-kitoblariga ko‘ra, “bugungi kunda qurilgan” elektr stansiyasidan olinadigan geotermal energiya taxminan $0,05/kVt/soat turadi.</value>
+  </data>
+</root>

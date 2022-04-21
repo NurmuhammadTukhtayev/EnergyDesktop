@@ -1,0 +1,65 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Yadro energiyasi - bu elektr energiyasini ishlab chiqarish uchun yadro reaktsiyalaridan foydalanish. Yadro energiyasini yadroviy parchalanish, yadroviy parchalanish va yadroviy sintez reaktsiyalaridan olish mumkin. Hozirgi vaqtda atom energiyasidan olinadigan elektr energiyasining katta qismi atom elektr stantsiyalarida uran va plutoniyning yadroviy parchalanishi natijasida ishlab chiqariladi. Yadroviy parchalanish jarayonlari Voyager 2 kabi ba'zi kosmik zondlarda radioizotopli termoelektr generatorlari kabi ilovalarda qo'llaniladi. Termoyadroviy quvvatdan elektr energiyasini ishlab chiqarish xalqaro tadqiqotlar markazida bo'lib qolmoqda.
+
+Birinchi atom elektr stantsiyasi 1950-yillarda qurilgan va global o'rnatilgan yadro quvvati 1970-yillarning oxirida 100 GVtgacha o'sdi va keyin 1980-yillarda tez o'sib, 1990 yilga kelib 300 GVtga yetdi. 1979 yilda Amerika Qo'shma Shtatlaridagi Three Mil Island avariyasi Sovet Ittifoqidagi 1986 yildagi Chernobil halokati tartibga solishning kuchayishiga va atom stansiyalariga nisbatan jamoatchilik e'tiroziga olib keldi. Ushbu omillar, qurilishning yuqori narxi bilan birga, 2022 yilga kelib global o'rnatilgan quvvatni atigi 390 GVtgacha oshirishga olib keldi. Bu stansiyalar 2019 yilda 2586 teravatt soat (TVt) elektr energiyasini yetkazib berdi, bu global elektr energiyasi ishlab chiqarishning qariyb 10 foiziga teng va gidroelektr energiyasidan keyin ikkinchi eng katta kam uglerodli energiya manbai. 2022 yil mart holatiga ko'ra, dunyoda 439 ta fuqarolik bo'linish reaktorlari mavjud bo'lib, ularning 56 tasi qurilmoqda va 96 tasi rejalashtirilgan bo'lib, ularning umumiy quvvati mos ravishda 62 GVt va 96 GVt. Qo'shma Shtatlar yadroviy reaktorlarning eng katta parkiga ega bo'lib, yiliga 800 TVt/soatdan ortiq nol emissiyali elektr energiyasi ishlab chiqaradi, o'rtacha quvvat koeffitsienti 92%. Qurilayotgan reaktorlarning aksariyati Osiyodagi III avlod reaktorlaridir.</value>
+  </data>
+</root>

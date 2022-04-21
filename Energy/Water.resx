@@ -1,0 +1,65 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Gidroelektr stansiya (GES) -suv oqimining energiyasini gidravlik turbinalar yordamida elektr energiyasiga aylantirib beradigan gidrotexnika inshootlari va energetika jihozlari majmui. Gidrotexnika inshootlari toʻgʻon yonidagi, derivatsion va aralash turlarga boʻlinadi. Toʻgʻon yonidagi GESlarda toʻgʻon yordamida suv sathi koʻtarilib, kerakli bosim hosil qilinadi. GES binosi 3 xil joylashtiriladi: 1) toʻgʻon yonida; 2) toʻgʻondan chetrokda; 3) toʻgʻondan pastda, daryo oʻzanida. Toʻgʻon yonida va daryo oʻzanida quriladigan GES larda suv bosimini toʻgʻon hosil qiladi. Bunday GES lar suvi koʻp boʻlgan, tekis oqadigan togʻ daryolariga, soyliklarning toraygan joyiga quriladi. Bularga Qayroqqum, Tuyamoʻyin va Chordara GESlarini koʻrsatish mumkin. Derivatsion (GES ning stansiya uzeliga suv kuvurlari, kanal yoki tunnel vositasida olib kelinadigan) GESlar oʻrta va yuqori bosimli boʻlib, bosim derivatsiya kanali yordamida hosil qilinadi. Bunday GES larga Chorvoq, Farhod va Boʻzsuv kanalidagi GESlar kiradi. Aralash GES larda bosim, asosan, daryodagi gidrotexnika inshootlari va qisman derivatsiya kanali yordamida hosil qilinadi. GES inshootlari majmuiga daryo oʻzanini toʻsib bosim hosil qiladigan bosh inshoot (toʻgʻon), GES binosiga suv yetkazib beradigan kanal, stansiya bosim uzeli (SBU) yoki bosim suv quvuri, suv sathini va sarfini tartibga solib turadigan, ortiqcha suvni chiqarib tashlaydigan va b. avtomatik qurilmalardan iborat inshootlar; suv energiyasini bevosita elektr energiyaga aylantirib beradigan gidroagregat (turbina bilan generator) oʻrnatilgan mashina zali va foydalanib boʻlingan suvni chiqarib tashlaydigan inshootlar kiradi.
+Biogaz zavodi, qoida tariqasida, ma'lum bir temperatura turida organik chiqindilar massasini fermentatsiyalash jarayoni sodir bo'lgan germetik yopiq konteynerdir: tashish, kanalizatsiya va boshqalar.biogaz hosil bo'lishi bilan.
+Barcha biogaz qurilmalarining ishlash printsipi bir xil: xom ashyoni kerakli namlikka etkazishdan iborat xom ashyoni yig'ish va tayyorlashdan so'ng, u xom ashyoni qayta ishlash jarayonini optimallashtirish uchun maxsus shartlar yaratilgan reaktorga beriladi.</value>
+  </data>
+</root>
